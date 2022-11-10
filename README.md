@@ -23,3 +23,4 @@ sudo mv chromedriver /usr/local/bin
 ```
 pytest --tb=line -v
 ```
+![Screenshot from 2022-11-10 16-40-11](https://user-images.githubusercontent.com/81771740/201149410-20a27b0e-be26-470b-b25e-7ad1faf23a6a.png)
