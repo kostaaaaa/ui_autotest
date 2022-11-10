@@ -1,5 +1,5 @@
 # Introduction
-This repository contains several tests for https://copenhagencard.com/ using PyTest and Selenium.
+This repository contains test for https://copenhagencard.com/ using PyTest and Selenium.
 
 # How to run tests
 1. Install requirements in your virtual environment

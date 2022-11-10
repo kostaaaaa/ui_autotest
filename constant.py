@@ -1,4 +1,0 @@
-URL = 'https://copenhagencard.com/'
-DRIVER_WAIT_IN_SEC = 10
-CALC_ZERO_AMOUNT = '0 EUR'
-CALC_POSITIVE_AMOUNT = '18 EUR'
